@@ -1,0 +1,26 @@
+.html{
+    font-size: 33px;
+}
+body{
+    background-color: black;
+    color: white;
+}
+a:hover, a:active
+{
+    color: aquamarine;
+}
+#table1{
+    border: 2px;
+    background-color: black;
+
+}
+
+#table2{
+    border: 3px;
+    background-color: black;
+    text-shadow: 44cqmax;
+}
+#fillIt{
+    border: 1px;
+    background-color: aquamarine;
+}
